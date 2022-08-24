@@ -54,5 +54,12 @@ That is exactly what we did in this case: we added a first convolutional layer u
 ![image](https://user-images.githubusercontent.com/90658957/186298747-e7363d04-94bf-4571-b01e-c6ed0fa775ff.png)
 
 ## Acknowledgements
+https://www.nejm.org/doi/full/10.1056/nejmcp1502514?casa_token=AaWL11SOxSwAAAAA:jF5Oz0b-b-QU5BEr0PUtrSIWN4p4VtcDOoyGoIcNkfh1cHLISUtCjdgeA1BrI8BAewvn64X5HoirCXQ 
+https://www.researchgate.net/profile/Mark-Oakley-Browne/publication/230794754_Generalized_anxiety_disorder/links/09e415121f4e5ed7f1000000/Generalized-anxiety-disorder.pdf  
+https://dl.acm.org/doi/abs/10.1145/3218585.3218587?casa_token=T-5L0Pbg7wAAAAAA:Zlc09PrHmhOL3wWxtZUHQaJa3U7km2T9ZOgqpQumwLRMbEy0wbbYBBZkzVFqn40OrcCMkfva2TdT 
+Pintelas, E. G., Kotsilieris, T., Livieris, I. E., & Pintelas, P. (2018, June). A review of machine learning prediction methods for anxiety disorders. In Proceedings of the 8th International Conference on Software Development and Technologies for Enhancing Accessibility and Fighting Info-exclusion (pp. 8-15).
+https://pdfs.semanticscholar.org/f63f/4a24f06ea76155607c483a664135af956b4d.pdf 
+Arif, M., Basri, A., Melibari, G., Sindi, T., Alghamdi, N., Altalhi, N., & Arif, M. (2020). Classification of anxiety disorders using machine learning methods: a literature review. Insights Biomed Res, 4(1), 95-110.
+
 
    

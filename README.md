@@ -14,6 +14,25 @@ General anxiety disorder also commonly co-occurs with major depressive disorder,
 
 Additionally, patients with GAD have a higher risk for other mental health disorders and physical symptoms such as chronic pain and asthma (Stein et al., 2015). About 35% of those with GAD turn to alcohol and medications to reduce their symptoms of anxiety, which can increase the risk for substance and drug related problems (Stein et al., 2015). 
 
+## Data Collection
+
+I have used Discord to collect the data related to anxiety. Discord is a free audio, video, and text chat service used by tens of millions of individuals aged 13 and above to communicate and socialize with their communities and friends. People use Discord on a regular basis to discuss a wide range of topics, from art projects and family vacations to homework and mental health help. The vast majority of servers are private, invite-only locations where friends and communities may communicate and spend time together. Because all discussions are opt-in, users have complete control over who they connect with and how they interact on Discord. It's a place where they can be themselves while still spending time with others who share their interests and hobbies.
+
+The public chats are communities of "servers." Servers are groups of persistent chat rooms. The channel #R/SocialAnxiety and #Kai Havan on Discord is a popular place to express and discuss anxiety. I downloaded almost 42,000 posts and comments from various individuals. I cleaned up and preprocessed the conversations in order to correlate a user's sentences to one.
+
+Before Merging:
+     Channels                                          Total                                                          Data Collected
+     kai Havan                                        10452                                                          2/9/2022 -  4/10/2022                                  R/SocialAnxiety                                  31959                                                          4/21/2021 - 4/18/2022
+     
+## Methodology
+
+Our data collection method involved creating an account discord chat server to download public chats. I used a public discord chat and exported recent chats for above periods. I specifically targeted discussion topic that is related to anxiety. I found two channels one is kai Haven and the other is R/SocialAnxiety. I have downloaded around 42k posts from those 2 channels, later I imported the dataset into python and grouped the chat using author tag variable then I got 1248 records from R/SocialAnxiety channel and 702 records from Kai Havan channel then I merged both the channels data into one dataset then in total I got 1951 records and then I downloaded the grouped dataset and added one more column named channel to add the channel name.
+
+After Merging:
+    Channels                                          Total                                                          Data Collected
+    kai Havan                                          702                                                       2/9/2022 -  4/10/2022                                     R/SocialAnxiety                                    1248                                                      4/21/2021 - 4/18/2022
+
+
 ## Import Libraries
 ![image](https://user-images.githubusercontent.com/90658957/186297635-74d1b2c1-3c28-42ce-9ba2-40daf72de611.png)
 

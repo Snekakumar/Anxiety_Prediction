@@ -18,15 +18,18 @@ Additionally, patients with GAD have a higher risk for other mental health disor
 ![image](https://user-images.githubusercontent.com/90658957/186297635-74d1b2c1-3c28-42ce-9ba2-40daf72de611.png)
 
 ## EDA
-
-Distribution of text length in user messages
+## Distribution of text length in user messages
 ![image](https://user-images.githubusercontent.com/90658957/186297957-dc1658e2-1cf1-4cee-8ded-1cbe95b70a93.png)
 
-wordcloud
+## wordcloud
 ![image](https://user-images.githubusercontent.com/90658957/186298042-7bb2d1d9-e68f-4335-8a74-6a777d4d2a24.png)
 
-Sentiment Analysis
+## Sentiment Analysis
 ![image](https://user-images.githubusercontent.com/90658957/186298182-0f51a48f-68c5-43e3-bcd9-d1593bed4214.png)
+
+## Top words after stopwords removal
+![image](https://user-images.githubusercontent.com/90658957/186299018-ceb3fb38-b85a-4bcb-9375-a71d421ef999.png)
+
 
 ## Models
 ## Feed Forward Neural network using keras:
